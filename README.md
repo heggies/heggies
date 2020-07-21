@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hello there!](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
 
 <!--
 **heggies/heggies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
