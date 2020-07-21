@@ -1,4 +1,4 @@
-![Hello there!](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" width="100%" />
 
 <!--
 **heggies/heggies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
